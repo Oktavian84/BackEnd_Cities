@@ -18,4 +18,6 @@ model cities {
   img_url       String
   city_name     String
   city_location String
+  city_population String?
+  city_description String?
 }
